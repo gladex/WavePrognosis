@@ -1,5 +1,5 @@
 # WavePrognosis
-The repository contains five additional files for manuscript under review.
+The repository contains six additional files for manuscript under review.
 
 - Addtional file 1: (PAAD) Comparisons on the proposed method, classic LASSO and wavelet-based methods with diverse predictors.
 
